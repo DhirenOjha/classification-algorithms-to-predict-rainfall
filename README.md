@@ -2,7 +2,7 @@
 Classification algorithms is used to create a model based on training data and evaluation of model is done on testing data using evaluation metrics.
 
 Algorithms Used-
-1. Linear Regression
+1. Linear Regression(not suitable for classification, used just to compare different algorithms)
 2. K-Nearest Neighbor(KNN)
 3. Decision Tree
 4. Logistic Regression
